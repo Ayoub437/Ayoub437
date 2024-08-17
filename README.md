@@ -1,6 +1,5 @@
 -  My name is Ayoub and i am from the german city Frankfurt am Main.
 -  I’m interested in computer science and wanna do it as my profession.
--  I am very good in HTML, CSS and javaScript. The Frameworks i use are reactjs and nextjs.
 -  Styling: For designing websites i use the framework tailwindcss with its plugins daisyui and postcss. I used bootstrap in the past.
 -  I’m looking to collaborate on a company next year to labour as an computer scientist.
 -  You can reach me through my e-mail ouatalebayoub@gmail.com.
